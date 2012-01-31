@@ -1,1 +1,7 @@
-This guestbook is protected using kaPoW's client puzzles. Before posting a comment, the guestbook runs the content of the post through SpamAssassin to determine its spamminess. Based on the score, a kaPoW puzzle is attached to the submission form that the client must solve in order to post the message. The more spammy the comment is, the harder the puzzle is. The guestbook also queries DNSBLs (DNS block lists) to deliver harder kaPoW puzzles to IP addresses that are known to be bad.
+DEMO: http://www.ox.cs.pdx.edu/SpamResistantGuestbook/
+
+This guestbook is protected using kaPoW's client puzzles.
+Before posting a comment, the guestbook runs the content of the post through SpamAssassin to determine its spamminess.
+Based on the score, a kaPoW puzzle is attached to the submission form that the client must solve in order to post the message.
+The more spammy the comment is, the harder the puzzle is.
+The guestbook also queries DNSBLs (DNS block lists) to deliver harder kaPoW puzzles to IP addresses that are known to be bad.
