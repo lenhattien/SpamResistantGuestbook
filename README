@@ -1,5 +1,13 @@
 DEMO: http://www.ox.cs.pdx.edu/SpamResistantGuestbook/
 
+TODO:
+. Add an ajax-loader.gif
+. Talk to centralized server
+
+
+
+
+---------------
 This guestbook is protected using kaPoW's client puzzles.
 Before posting a comment, the guestbook runs the content of the post through SpamAssassin to determine its spamminess.
 Based on the score, a kaPoW puzzle is attached to the submission form that the client must solve in order to post the message.
